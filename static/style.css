@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Triglavian;
+    src: url('fonts/Triglavian.woff') format('woff');
+    font-style: normal;
+    font-weight: 300;
+    /* src: {{ url_for('static', filename='Triglavian.woff') }};*/
+    }
+    * 
+    {
+    font-family: "Triglavian", 'Comic Sans MS' !important;
+    }
